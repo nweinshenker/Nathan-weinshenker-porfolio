@@ -16,11 +16,11 @@
 title: Nathan Weinshenker
 email: nweinshenker@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A little website for myself to help myself get into the coding mindset. 
+  A little website for myself to help myself get into the coding mindset.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: nweinshenker
+github_username:  nweinshenker
 
 # Build settings
 markdown: kramdown
